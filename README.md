@@ -13,4 +13,4 @@ Basic Ships Navigation for Two Forces, a screenshot can be viewed in the About f
 Regards,
 Foster Johnson,
 SFJ Academy, Lead Instructor,
-Groton, CT 06340
+Groton, CT 06340 USA
