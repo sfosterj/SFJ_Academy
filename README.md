@@ -9,6 +9,7 @@ SFJ Academy, Lead Instructor
 Groton, CT 06340
 
 Basic Ships Navigation
-
+orcesShipsnav_THUM.png
+basicS
 
 Basic Ships Navigation for Two Forces
