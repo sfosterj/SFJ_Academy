@@ -1,6 +1,6 @@
 # SFJ_Academy
 
-This repository is in place to provide demonstration C# for Unity traninig.
+This repository is in place to provide demonstration C# for Unity traininig products.
 Academic organizations and students are free to use these code samples at will. However please read and understand the license agreements for each sample.
 
 Regards,
