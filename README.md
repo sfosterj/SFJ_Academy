@@ -8,8 +8,6 @@ Foster Johnson
 SFJ Academy, Lead Instructor
 Groton, CT 06340
 
-Basic Ships Navigation
-orcesShipsnav_THUM.png
-basicS
+Basic Ships Navigation, a screenshot of exists in the About folder.
 
-Basic Ships Navigation for Two Forces
+Basic Ships Navigation for Two Forces, a screenshot of exists in the About folder.
