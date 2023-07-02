@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*
- * Basic Vehicle Control
+ * Multiplayer Vehicle Control
  *
  * LICENSE
  * This source file is subject to the Foster Johnson Eneterpises'
@@ -18,13 +18,16 @@ using UnityEngine;
  * 
  * @copyright Copyright (c) 2011-2023 Foster Johnson Enterprises, LLC USA Inc. 
  *            (http://www.fosterjohnson.com)
- * @version   $Id: VehicleController.cs 06340 2023-07-01 11:37:06 1137Z foster $
+ * @version   $Id: VehicleControllerMulti.cs 06340 2020-11-21 08:04:06 0804Z foster $
  * @license   http://fosterjohnson.com/licenses/unity.php FJE Unity Build Licenses
  */
 
 
-public class VehicleController : MonoBehaviour
+public class VehicleControllerMulti : MonoBehaviour
 {
+    public string forceType;
+    public Camera mainCamera;
+    
     private float speed = 20.0f;
     private float turnSpeed = 10.0f;
     private float horizontalInput;
@@ -38,8 +41,8 @@ public class VehicleController : MonoBehaviour
     void Update()
     {
         //Add keyboard controls using the correct Input Axes.
-        horizontalInput = Input.GetAxis("Horizontal");
-        forwardInput = Input.GetAxis("Vertical");
+        horizontalInput = Input.GetAxis("Horizontal" + forceType);
+        forwardInput = Input.GetAxis("Vertical" + forceType);
 
         // Move vehicle forward
         transform.Translate(Vector3.forward * Time.deltaTime *speed * forwardInput);
