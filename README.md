@@ -5,9 +5,9 @@ Academic organizations and students are free to use these code samples at will. 
 
 
 
-Basic Ships Navigation, a screenshot of exists in the About folder.
+Basic Ships Navigation, a screenshot can be viewed in the About folder.
 
-Basic Ships Navigation for Two Forces, a screenshot of exists in the About folder.
+Basic Ships Navigation for Two Forces, a screenshot can be viewed in the About folder.
 
 
 Regards,
