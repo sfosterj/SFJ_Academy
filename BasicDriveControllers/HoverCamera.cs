@@ -16,7 +16,7 @@ using UnityEngine;
  * @category  Training
  * @build     [DEVELOPER'S INSTRUCTION: Replace this with name of Build that includes this src.]
  * 
- * @copyright Copyright (c) 2011-2021 Foster Johnson Enterprises, LLC USA Inc. 
+ * @copyright Copyright (c) 2011-2021 Foster Johnson Enterprises, LLC 
  *            (http://www.fosterjohnson.com)
  * @version   $Id: HoverCamera.cs 94610 2021-08-11 15:14:25 1514Z foster $
  * @license   http://fosterjohnson.com/licenses/unity.php FJE Unity Build Licenses
