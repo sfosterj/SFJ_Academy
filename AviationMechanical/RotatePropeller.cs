@@ -6,7 +6,7 @@ using UnityEngine;
  * Propeller Rotation / Mechanical
  *
  * LICENSE
- * This source file is subject to the Foster Johnson Enterpises'
+ * This source file is subject to the Foster Johnson Enterprises'
  * license included in Unity builds where it is used.
  * See the file FJE_LICENSE.txt.
  * It is also available at this URL:
