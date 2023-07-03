@@ -6,7 +6,7 @@ using UnityEngine;
  * Basic Vehicle Control
  *
  * LICENSE
- * This source file is subject to the Foster Johnson Eneterpises'
+ * This source file is subject to the Foster Johnson Enterprises'
  * license included in Unity builds where it is used.
  * See the file FJE_LICENSE.txt.
  * It is also available at this URL:
@@ -16,7 +16,7 @@ using UnityEngine;
  * @category  Training
  * @build     [DEVELOPER'S INSTRUCTION: Replace this with name of Build that includes this src.]
  * 
- * @copyright Copyright (c) 2011-2023 Foster Johnson Enterprises, LLC USA Inc. 
+ * @copyright Copyright (c) 2011-2023 Foster Johnson Enterprises, LLC 
  *            (http://www.fosterjohnson.com)
  * @version   $Id: VehicleController.cs 06340 2023-07-01 11:37:06 1137Z foster $
  * @license   http://fosterjohnson.com/licenses/unity.php FJE Unity Build Licenses

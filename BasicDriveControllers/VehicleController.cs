@@ -6,7 +6,7 @@ using UnityEngine;
  * Basic Vehicle Control
  *
  * LICENSE
- * This source file is subject to the Foster Johnson Eneterpises'
+ * This source file is subject to the Foster Johnson Enterprises'
  * license included in Unity builds where it is used.
  * See the file FJE_LICENSE.txt.
  * It is also available at this URL:

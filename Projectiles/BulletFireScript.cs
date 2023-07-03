@@ -6,7 +6,7 @@ using UnityEngine;
  * Basic Bullet Automatic Fire
  *
  * LICENSE
- * This source file is subject to the Foster Johnson Eneterpises'
+ * This source file is subject to the Foster Johnson Enterprises'
  * license included in Unity builds where it is used.
  * See the file FJE_LICENSE.txt.
  * It is also available at this URL:
@@ -16,8 +16,7 @@ using UnityEngine;
  * @category  Training
  * @build     [DEVELOPER'S INSTRUCTION: Replace this with name of Build that includes this src.]
  * 
- * @copyright Copyright (c) 2011-2021 Foster Johnson Enterprises, LLC USA Inc. 
- *            (http://www.fosterjohnson.com)
+ * @copyright Copyright (c) 2011-2021 Foster Johnson Enterprises, LLC *            (http://www.fosterjohnson.com)
  * @version   $Id: BulletFireScript.cs 32544 2021-08-29 09:46:00 foster $
  * @license   http://fosterjohnson.com/licenses/unity.php FJE Unity Build Licenses
  */
